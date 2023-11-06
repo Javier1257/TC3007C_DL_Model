@@ -1,0 +1,9 @@
+In this file can be find the embedding files used in the buiilding of the model.
+Embedding Files:
+
+
+-> glove.6B.300.txt:	<- Finally Implemented, Download to run the training file
+https://drive.google.com/file/d/1pmnZXaBSk8AAU7qLq4-EWaas4aco8WL2/view?usp=sharing
+
+-> Google_Word2Vec.bin:	<- NOT Implemented
+https://drive.google.com/file/d/1HoGn3-1MVy5Z9-IIpaBncfVFMxMujFrl/view?usp=sharing
