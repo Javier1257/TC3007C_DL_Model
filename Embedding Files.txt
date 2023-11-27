@@ -1,0 +1,8 @@
+In this file can be find the embedding files used in the buiilding of the model.
+Embedding Files:
+
+-> glove.6B.300d.txt:
+https://drive.google.com/file/d/1pmnZXaBSk8AAU7qLq4-EWaas4aco8WL2/view?usp=drive_link
+
+-> glove.6B.100d.txt:
+https://drive.google.com/file/d/1PjEdY4VQnl93CkpQwH0Moeugq5A1LL4d/view?usp=drive_link
